@@ -1,0 +1,38 @@
+{
+  "name": "lab",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@types/node": "22.7.4",
+    "typescript": "^5.2.2",
+    "vite": "^5.4.9"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanX3N0/lab-gp.git"
+  },
+  "author": "Dietmar Alex Apaza <alexapaza72361453@gmail.com>",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "esbuild": "^0.20.2",
+    "nanoid": "^3.3.7",
+    "picocolors": "^1.0.0",
+    "postcss": "^8.4.38",
+    "rollup": "^4.13.1",
+    "source-map-js": "^1.2.0",
+    "undici-types": "^6.19.8"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/DanX3N0/lab-gp/issues"
+  },
+  "homepage": "https://github.com/DanX3N0/lab-gp#readme"
+}
